@@ -1,5 +1,5 @@
 # automation-test-solution
-To have data driven testing using test cafe framework
+To have data driven testing axios API framework
 
 
 # Pre-requisites
